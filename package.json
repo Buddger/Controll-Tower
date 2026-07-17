@@ -1,5 +1,5 @@
 {
-  "name": "order-control-tower-clean",
+  "name": "order-control-tower",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,5 +14,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
-  "devDependencies": {}
+  "engines": {
+    "node": "20.x"
+  }
 }
